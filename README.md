@@ -1,2 +1,3 @@
 # Color-Guessing-Game
-Created a game using HTML, CSS, Javascript.
+Created a Color-Guessing-Gmae using HTML, CSS, Javascript.
+Link to the Game - https://abhisheksp120.github.io/Color-Guessing-Game/
